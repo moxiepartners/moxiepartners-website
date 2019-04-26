@@ -1,6 +1,6 @@
 baseURL = "https://moxie.partners/"
 languageCode = "nl_be"
-title = "Moxie Partners"
+title = "Moxie.Partners"
 # tags = ["portfolio", "web design", "blog"]
 config = "config.toml"
 theme = "osprey"
