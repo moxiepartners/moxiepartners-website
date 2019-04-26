@@ -5,7 +5,7 @@ title = "Moxie Partners"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
-googleAnalytics = ""
+googleAnalytics = "UA-139131072-1"
 #disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
